@@ -6,8 +6,8 @@ if(isset($_GET['id'])) {
 }
 
 $mysql_hostname = "10.1.1.22"; 
-$mysql_user = "MP"; 
-$mysql_password = "Mp@dmin12";
+$mysql_user = "Nopphananp"; 
+$mysql_password = "P@ssw0rd";
 $mysql_database = "CT519_Movies";
 $bd = mysqli_connect($mysql_hostname, $mysql_user, $mysql_password,$mysql_database) or die("Could not connect database");
 
