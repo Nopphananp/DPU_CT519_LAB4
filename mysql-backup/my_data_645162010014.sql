@@ -18,6 +18,7 @@
 --
 -- Table structure for table `Movie_Name`
 --
+USE CT519_Movies;
 
 DROP TABLE IF EXISTS `Movie_Name`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
